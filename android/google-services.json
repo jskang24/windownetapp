@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386027610089",
+    "project_id": "windownet-6a105",
+    "storage_bucket": "windownet-6a105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386027610089:android:f5de8380b92704dc7af578",
+        "android_client_info": {
+          "package_name": "windownet.console"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386027610089-a8tk1g8j8l2jj9342953t3772t3180j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "windownet.console",
+            "certificate_hash": "c154287fe43646289a0e52ea444b5233e61c688d"
+          }
+        },
+        {
+          "client_id": "386027610089-296mpt28fv9uh2v821l51mfp76f7tk9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdIAxAzzmKM8GzjKAgc-7oIRC9vb5zjQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386027610089-296mpt28fv9uh2v821l51mfp76f7tk9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
