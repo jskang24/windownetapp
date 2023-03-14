@@ -43,6 +43,7 @@ class _DashboardState extends State<Dashboard> {
       future: _calculation,
       builder: (BuildContext context, AsyncSnapshot<String> snapshot) {
         if (rooms.length > 0) {
+          print("Hello");
           for (int i = 0; i < rooms.length; i++) {
             if (rooms[i]['roomName'] == 'Dummy') {
               rooms.remove(rooms[i]);
